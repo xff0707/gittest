@@ -11,4 +11,8 @@ public class test {
             System.out.println();
         }
     }
+    public static void show(Object obj)
+    {
+        System.out.println(obj);
+    }
 }
